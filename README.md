@@ -1,5 +1,6 @@
-# CKA-2025
-CKA 2025 full exam guide
+# CKA-2026
+CKA 2026 full exam guide
+Good Luck!!!
 
 ## CKA Exam Detials
 Mode of exam: Online
